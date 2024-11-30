@@ -118,11 +118,11 @@
 <h2 align="center">:iphone: Join My Network</h2>
 <div align="center">
   <!-- Animated LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/shuddhodhan-surwade-a493b7215/">
+  <a href="https://www.linkedin.com/in/rushikesh-thomre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&logoHeight=30">
   </a>
   <!-- Animated Gmail Icon -->
-  <a href="mailto:sssurwade2212@gmail.com">
+  <a href="mailto:er.rushikeshthomare@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30">
   </a>
 </div>
