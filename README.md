@@ -50,23 +50,7 @@
   </a>
 </p>
 
-<!-- Legendary Exploits -->
-<br>
-<h2 align="center">:trophy: Legendary Exploits</h2>
-<p align="center">
-  <a href="https://github.com/Rushikesh-Thomre/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Students+Innovation+Festival;IISF+2022+MANIT;Top+100+Teams+in+India;&center=true&width=550&height=40">
-  </a>
-</p>
 
-<!-- Hackathon Conquests -->
-<br>
-<h2 align="center">:rocket: Hackathon Conquests</h2>
-<p align="center">
-  <a href="https://github.com/Rushikesh-Thomre/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=2nd+Edition+of+Poornima+Hackathon+2023;Tech+Hunt+Hachathon;&center=true&width=550&height=40">
-  </a>
-</p>
 
 <!-- Language Matrix -->
 <br>
