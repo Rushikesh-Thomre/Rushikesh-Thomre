@@ -11,7 +11,7 @@
 <p align="center"> 
   • 🇮🇳 Lives in India - Nashik Maharashtra<br>
   • 📧 Contact me at er.rushikeshthomare@gmail.com<br>
-  • 👨‍💻 I’m Java FullStack.<br>
+  • 👨‍💻 I’m Java FullStack Developer.<br>
   • 💬 Ask me about Java.<br>
   • 🧿 View my <a <a href="file:///H:/Portfolio%20Website/index.html" target="_blank">Portfolio</a>
 
