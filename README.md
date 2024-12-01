@@ -44,7 +44,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/Rushikesh-Thomre/">
- <img src="https://readme-typing-svg.herokuapp.com?lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Java+%7C+Python+%7C+Advanced+Excel+%7C+Power+BI+%7C+Tableau+%7C+SQL;&center=true&width=550&height=40">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|+SQL%20|%20HTML-CSS-JS;&center=true&width=550&height=40">
 
 
   </a>
