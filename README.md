@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/Rushikesh-Thomre/Rushikesh-Thomre/assets/119784108/df50843e-9c2c-4d6b-b48f-7f3202348a0c" alt="GitHub Header Image">
+  <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg" alt="GitHub Header Image">
 </p>
 
 <h1 align="center">👾 Greetings, I'm Rushikesh Thomre 👾</h1>
