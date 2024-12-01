@@ -21,7 +21,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Rushikesh-Thomre?tab=repositories">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|+SQL%20|%20Computer+Networks;&center=true&width=550&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|+SQL%20|%20HTML-CSS-JS;&center=true&width=550&height=40">
   </a>
 </p>
 
