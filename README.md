@@ -1,116 +1,70 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg" alt="GitHub Header Image">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
 
-<h1 align="center">👾 Greetings, I'm Rushikesh Thomre 👾</h1>
+---
 
-<!-- About Me -->
-<h2 align="center">💫 About Me : </h2>
+# <p align="center">Rushikesh Thomre</p>
 
-<p align="center"> 
-  • 🇮🇳 Lives in India - Nashik Maharashtra<br>
-  • 📧 Contact me at er.rushikeshthomare@gmail.com<br>
-  • 👨‍💻 I’m Java FullStack Developer.<br>
-  • 💬 Ask me about Java.<br>
-  • 🧿 View my <a <a href="file:///H:/Portfolio%20Website/index.html" target="_blank">Portfolio</a>
-
-
-</p>
-
-<p align="center">🚀 Eternal Explorer in the Digital Realm</p>
-
-<!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/Rushikesh-Thomre?tab=repositories">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|+SQL%20|%20HTML-CSS-JS;&center=true&width=550&height=40">
-  </a>
+  <strong>👨‍💻 Java FullStack Developer | Java Enthusiast | Digital Explorer</strong>
 </p>
 
-<!-- Badges Section -->
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Rushikesh-Thomre?logo=Github&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/Rushikesh-Thomre?style=for-the-badge">
-  <a href="https://github.com/Rushikesh-Thomre/"><img src="https://komarev.com/ghpvc/?username=Rushikesh-Thomre&style=for-the-badge"></a>
-</div>
-
-<!-- GitHub Stats -->
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh-Thomre&show_icons=true&theme=radical">
-</div>
-
-<!-- Typing Animation -->
-<br>
 <p align="center">
-  <a href="https://github.com/Rushikesh-Thomre/">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|+SQL%20|%20HTML-CSS-JS;&center=true&width=550&height=40">
-
-
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rushikesh-Thomre&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Rushikesh-Thomre?label=Followers&style=social" alt="followers" />
 </p>
 
-
-
-<!-- Language Matrix -->
-<br>
-<h2 align="center">:chart_with_upwards_trend: Language Matrix</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh-Thomre&layout=compact&theme=radical">
-</div>
-
-<!-- Skills -->
-<br>
-<h2 align="center">💻 Skills and Tools</h2>
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> 
-  </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4CAF50&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Java+%7C+Python+%7C+SQL+%7C+HTML-CSS-JS;Let's+explore+the+world+of+code+and+development!" />
 </p>
 
+---
+
+## 💡 About Me  
+💼 Passionate **Java FullStack Developer** with an enthusiasm for learning new technologies.  
+🔍 Skilled in Java, Spring Boot, Hibernate, MySQL, and more.  
+📚 Currently diving deeper into **Web Development**, **Java Frameworks**, and **API Development**.
+
+---
+
+## 🛠 Tech Stack  
+
+### 💻 **Programming Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📊 **Databases & SQL**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧑‍💻 **Development Tools**  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rushikesh-Thomre&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies">
+</p>
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh-Thomre&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh-Thomre&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
+
+---
 
 
-<!-- Join My Network -->
-<br>
-<h2 align="center">:iphone: Join My Network</h2>
-<div align="center">
-  <!-- Animated LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/rushikesh-thomre/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&logoHeight=30">
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rushikesh-thomre/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <!-- Animated Gmail Icon -->
   <a href="mailto:er.rushikeshthomare@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
-
+</p>
